@@ -1,8 +1,9 @@
 /*
-Crie uma estrutura representando um aluno de uma disciplina. Essa estrutura deve conter 
-o número de matrícula do aluno, seu nome e as notas de três provas. Agora, escreva um
-programa que leia os dados de cinco alunos e os armazena nessa estrutura. Em seguida, 
-exiba o nome e as notas do aluno que possui a maior média geral dentro os cinco.
+Crie uma estrutura representando um aluno de uma disciplina. Essa estrutura
+deve conter o número de matrícula do aluno, seu nome e as notas de três
+provas. Agora, escreva um programa que leia os dados de cinco alunos e os
+armazena nessa estrutura. Em seguida, exiba o nome e as notas do aluno que
+possui a maior média geral dentro os cinco.
 */
 
 #include <stdio.h>
